@@ -16,9 +16,10 @@ export class TasksController {
     }
     
     @Get(':id')
-    async getById(@Param('id') id: number) : Promise<Task>{
-        return this.taskService.getById(id);
+    async getById(@Param('id') id: number ) : Promise<Task> {
+        return this.taskService.getById(id); 
     }
+    
 
     
 
