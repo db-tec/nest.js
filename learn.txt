@@ -1,0 +1,2 @@
+# Iniciando com NestJS
+# https://www.youtube.com/watch?v=ufSIGVs9X_8&list=PLryJIoSncQyNzHHbHMPQkjPRP3Kv0ICnq&index=5
